@@ -1,0 +1,155 @@
+.container-fluid{
+	padding: 0px;
+}
+.main-navbar{
+	height: 130px;
+}
+.nav-text{
+	padding-top: 5px;
+}
+.top-nav{
+	height: 35px;
+	background-color: #ffffff;
+}
+.search-bar{
+	float: right;
+}
+.main-nav{
+	background-color:#222222;
+	height: 95px;
+	border-bottom: 2px solid #7c9c37;
+	color: #fff;
+}
+.navbar-items{
+	float: right;
+	list-style: none;
+	display: block;
+}
+.items li{
+	display: inline-block;
+	padding-top: 35px;
+	padding-left: 20px;
+}
+.carousel-inner{
+	height: 400px;
+}
+.slider-txt{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 35px;
+	padding-bottom: 25px;
+}
+.wrap{
+	background-color: #f0f0f0;
+	color: #000;
+	height: 265px;
+	width: 225px;
+}
+.wrap-img{
+	height: 140px;
+	width: 225px;
+}
+.wrap-img img{
+	height: 140px;
+	width: 100%;
+}
+.wrap-text{
+	height: 125px;
+	padding-left: 10px;
+}
+.wrap-text h4{
+	color: #7c9c37;
+}
+.splitter{
+	padding-top: 30px;
+	text-align: center;
+	padding-bottom: 15px;
+}
+.image{
+	height: 48px;
+	width: 48px;
+}
+.image img{
+	width: 100%;
+	height: 48px;
+}
+.wrap-text1{
+	height: auto;
+}
+.wrap-text1 h4{
+	color: #7c9c37;
+}
+.profile{
+	height: 225px;
+	width: 225px;
+}
+.profile img{
+	width: 100%;
+}
+.details h3{
+	color: #7c9c37;
+}
+.addition{
+	background-color: #f0f0f0;
+	color: #7c9c37;
+}
+.item h3{
+	color: #000;
+}
+#testimonials{
+	text-align: center;
+	padding-top: 80px; 
+}
+.head h1{
+	text-align: center; 
+}
+.profile1{
+	height: 125px;
+	width: 125px;
+	float: right;
+}
+.profile1 img{
+	height: 125px;
+	width: 100%;
+	border-radius: 65%;
+}
+.name h3{
+	margin-left: -444px;
+    margin-top: 35px;
+}
+.main-footer{
+	height: 395px;
+	background-color: #222222;
+}
+.top-footer{
+	height: 330px;
+}
+.footer-img{
+	height: 90px;
+	width: 215px;
+}
+.copyright{
+	float: left;
+}
+.designed{
+	float: right;
+}
+footer{
+	color: #fff;
+}
+.Section1 h2{
+	color: #353535
+}
+.Section2 h2{
+	color: #353535
+}
+.Section3 h2{
+	color: #353535
+}
+.Section4 h2{
+	color: #353535
+}
+
+.copyright-section{
+	border-top: 2px solid #000;
+}
